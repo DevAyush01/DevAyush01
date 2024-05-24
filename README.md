@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Chaudhary</h1>
 <h3 align="center">A passionate frontend developer and React Developer..</h3>
-<div height="420px" widht="100%"><img align="left" height="400px"   alt="coding"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></div>
+<div height="420px" align="center" widht="100%"><img align="left" height="400px"   alt="coding"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devayush01&label=Profile%20views&color=0e75b6&style=flat" alt="devayush01" /> </p>
 
