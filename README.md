@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Chaudhary</h1>
 <h3 align="center">A passionate frontend developer and React Developer..</h3>
 <img align="right" alt="coding" height="400px"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-
+<div>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devayush01&label=Profile%20views&color=0e75b6&style=flat" alt="devayush01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -22,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devayush01&show_icons=true&locale=en" alt="devayush01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devayush01&" alt="devayush01" /></p>
+
+</div>
