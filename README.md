@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Chaudhary</h1> 
+<h1 align="center">Hi 👋, I'm Ayush Chaudhary</h1>  
 <h3 align="center">A Passionate Full Stack Developer and React Developer..</h3>    
 <div height="420px" align="center" widht="600px"><img align="left" height="400px"   alt="coding"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></div>
 
